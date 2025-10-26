@@ -1,6 +1,5 @@
 # 💌 HumanMail  
 [![n8n workflow](https://img.shields.io/badge/workflow-n8n-blue)](https://n8n.io)  
-[![Powered by OpenAI](https://img.shields.io/badge/AI-OpenAI-GPT-4-green)](https://openai.com)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 **A Very Simple Human-in-the-Loop AI Email Automation System (IMAP + OpenAI + n8n)**  
