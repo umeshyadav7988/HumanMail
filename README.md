@@ -7,7 +7,6 @@
 This repository: **https://github.com/umeshyadav7988/HumanMail**  
 
 HumanMail is an **AI-powered email workflow** built in **n8n** that automatically reads incoming emails, summarizes them using an LLM, drafts a professional reply, and sends it for **human approval** before responding — ensuring both **automation** and **human oversight**.  
-
 ---
 
 ## 🚀 Features
